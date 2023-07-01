@@ -6,3 +6,4 @@ The videos of all lectures are available [on YouTube](https://www.youtube.com/pl
 
 Useful links:
 - [CS229 Summer 2019 edition](https://github.com/maxim5/cs229-2019-summer)
+- [CS229 Fall 2022 edition: Syllabus](https://docs.google.com/spreadsheets/d/18pHRegyB0XawIdbZbvkr8-jMfi_2ltHVYPjBEOim-6w/edit#gid=0)
